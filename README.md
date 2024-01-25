@@ -1,1 +1,1 @@
-# Hi there, I'm [Nurdaulet](https://github.com/quiryq). My id: 22B030388
+# Hi, I'm [Nurdaulet](https://github.com/quiryq). ID: 22B030388 ‿︵‿ヽ(°□° )ノ︵‿︵
