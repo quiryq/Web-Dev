@@ -1,1 +1,1 @@
-# Hi there, I'm [Nurdaulet](https://github.com/quiryq) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+# Hi there, I'm [Nurdaulet](https://github.com/quiryq). My id: 22B030388
