@@ -1,1 +1,1 @@
-"# Web-Dev" 
+# Hi there, I'm [Nurdaulet](https://github.com/quiryq) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
