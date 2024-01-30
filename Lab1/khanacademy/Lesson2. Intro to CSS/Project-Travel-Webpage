@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    <style>
+        .hawaii {
+            font-weight: bold;
+            color: rgb(148, 141, 227);
+        }
+        p {
+            font: monospace; 
+            background: rgb(232, 228, 199);
+            margin: 5px;
+        }
+    </style>
+    <body>
+    
+        <h1>Travel to <span class="hawaii">Hawaii</span></h1>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-in-hawaii.png" alt ="hawaii" width="80%">
+        
+        
+        <p>
+        <span class="hawaii">Hawaii</span>is an island state in the Western United States, about 2,000 miles (3,200 km) from the U.S. mainland in the Pacific Ocean. It is the only U.S. state outside North America, the only one which is an archipelago, and the only one in the tropics. <br><br>
+        <span class="hawaii">Hawaii</span> consists of 137 volcanic islands that comprise almost the entire Hawaiian archipelago (the exception, which is outside the state, is Midway Atoll). Spanning 1,500 miles (2,400 km), the state is physiographically and ethnologically part of the Polynesian subregion of Oceania. Hawaii's ocean coastline is consequently the fourth-longest in the U.S., at about 750 miles (1,210 km). The eight main islands, from northwest to southeast, are Niʻihau, Kauaʻi, Oʻahu, Molokaʻi, Lānaʻi, Kahoʻolawe, Maui, and Hawaiʻi, after which the state is named; the latter is often called the "Big Island" or "Hawaii Island" to avoid confusion with the state or archipelago. The uninhabited Northwestern Hawaiian Islands make up most of the Papahānaumokuākea Marine National Monument, the largest protected area in the U.S. and the fourth-largest in the world.
+        </p>
+        <br>
+        
+        <h3>Lists of things to see and places to go:</h3>
+        
+        <ul>
+            <li>Pearl Harbor</li>
+            <li>Diamond Head hike</li>
+            <li>Hanauma Bay</li>
+        </ul>
+    </body>
+</html>
